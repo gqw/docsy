@@ -3,6 +3,8 @@
 @import "variables";
 @import "support/mixins";
 
+$enable-deprecation-messages:                 false !default;
+
 @import "../vendor/bootstrap/scss/bootstrap";
 
 @import "../vendor/Font-Awesome/scss/fontawesome.scss";
